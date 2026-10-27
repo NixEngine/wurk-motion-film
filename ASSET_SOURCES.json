@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "file": "assets/wurk-logo.jpg",
+      "source": "https://ik.imagekit.io/wurk/agent-wurker-profile/058b778e3c5ec9eb2c0f67535aa2f0ed1315b3f34e7e994a476f7d2fa518da08/portfolio/e0031c37-dcb3-4470-b9dc-c881e9646677.jpg?updatedAt=1791540867985&tr=orig-true",
+      "size": 15568,
+      "sha256": "fd9d2d8cad7713cb646f063dfc81a7b1cfcd5800f0f4fe4e74d23d1c698effc5"
+    },
+    {
+      "file": "assets/Manrope.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/Manrope%5Bwght%5D.ttf",
+      "size": 164700,
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+    },
+    {
+      "file": "assets/OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+      "size": 4387,
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+    }
+  ],
+  "logoUse": "Supplied in the WURK task brief for this entry; WURK retains trademark rights",
+  "fontLicense": "SIL OFL 1.1"
+}

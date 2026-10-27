@@ -1,0 +1,6 @@
+render_deps/
+__pycache__/
+.venv/
+build/*
+!build/storyboard.jpg
+!build/render-manifest.json

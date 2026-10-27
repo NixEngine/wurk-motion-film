@@ -1,0 +1,15 @@
+{
+  "video": "wurk-great-work-takes-a-team.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "durationSeconds": 34,
+  "frames": 816,
+  "size": 1421290,
+  "sha256": "6ee4955d9ace6a924674f55674b044d46921ae693f1ffd2b47145c7fe7e2ea3f",
+  "encoder": "7.1-essentials_build-www.gyan.dev",
+  "logoSha256": "fd9d2d8cad7713cb646f063dfc81a7b1cfcd5800f0f4fe4e74d23d1c698effc5",
+  "networkRequestsDuringRender": 0,
+  "score": "Original procedural synthesis; no third-party samples",
+  "productClaims": "No guaranteed income, award or instant-payment claim"
+}
